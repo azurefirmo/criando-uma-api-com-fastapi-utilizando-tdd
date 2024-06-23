@@ -30,7 +30,7 @@ greenlet==2.0.1
     # via sqlalchemy
 h11==0.14.0
     # via uvicorn
-idna==3.4
+idna==3.7
     # via anyio
 jinja2==3.1.2
     # via -r requirements.in
