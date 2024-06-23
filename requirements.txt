@@ -50,7 +50,7 @@ pyasn1==0.4.8
     #   rsa
 pycparser==2.21
     # via cffi
-pydantic==1.10.2
+pydantic==1.10.13
     # via
     #   fastapi
     #   sqlmodel
